@@ -201,7 +201,7 @@ Check `13_Interview_Preparation/` for:
 |----------|------|
 | GitHub | [@PavanShettyHS](https://github.com/pavanshettyhs-18) |
 | LinkedIn | [Pavan Shetty H S](https://www.linkedin.com/in/pavan-shetty-h-s1807/) |
-| Email | .[pavanshetty1405@gmail.com](mailto:pavanshetty1405@gmail.com) |
+| Email | [pavanshetty1405@gmail.com](mailto:pavanshetty1405@gmail.com) |
 
 ---
 
